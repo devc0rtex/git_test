@@ -1,1 +1,2 @@
 Thanks Odin. We appreaciate you guys!
+This is my first time using Git
